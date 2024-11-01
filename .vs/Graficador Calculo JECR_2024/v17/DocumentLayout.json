@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efrec\\source\\repos\\Graficador Calculo JECR_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2100D531-6A7E-4C81-AC43-2BE6D6667C34}|Graficador Calculo JECR_2024\\Graficador Calculo JECR_2024.csproj|C:\\Users\\efrec\\source\\repos\\Graficador Calculo JECR_2024\\graficador calculo jecr_2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2100D531-6A7E-4C81-AC43-2BE6D6667C34}|Graficador Calculo JECR_2024\\Graficador Calculo JECR_2024.csproj|solutionrelative:graficador calculo jecr_2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2100D531-6A7E-4C81-AC43-2BE6D6667C34}|Graficador Calculo JECR_2024\\Graficador Calculo JECR_2024.csproj|c:\\users\\efrec\\source\\repos\\graficador calculo jecr_2024\\graficador calculo jecr_2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2100D531-6A7E-4C81-AC43-2BE6D6667C34}|Graficador Calculo JECR_2024\\Graficador Calculo JECR_2024.csproj|solutionrelative:graficador calculo jecr_2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\efrec\\source\\repos\\Graficador Calculo JECR_2024\\Graficador Calculo JECR_2024\\Form1.cs",
+              "RelativeDocumentMoniker": "Graficador Calculo JECR_2024\\Form1.cs",
+              "ToolTip": "C:\\Users\\efrec\\source\\repos\\Graficador Calculo JECR_2024\\Graficador Calculo JECR_2024\\Form1.cs",
+              "RelativeToolTip": "Graficador Calculo JECR_2024\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T21:16:41.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efrec\\source\\repos\\Graficador Calculo JECR_2024\\Graficador Calculo JECR_2024\\Form1.cs",
+              "RelativeDocumentMoniker": "Graficador Calculo JECR_2024\\Form1.cs",
+              "ToolTip": "C:\\Users\\efrec\\source\\repos\\Graficador Calculo JECR_2024\\Graficador Calculo JECR_2024\\Form1.cs [Design]",
+              "RelativeToolTip": "Graficador Calculo JECR_2024\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T21:13:59.75Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

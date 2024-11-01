@@ -1,0 +1,47 @@
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\Graficador Calculo JECR_2024.exe.config
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\Graficador Calculo JECR_2024.exe
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\Graficador Calculo JECR_2024.pdb
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\obj\Debug\Graficador Calculo JECR_2024.csproj.AssemblyReference.cache
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\obj\Debug\Graficador_Calculo_JECR_2024.Form1.resources
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\obj\Debug\Graficador_Calculo_JECR_2024.Properties.Resources.resources
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\obj\Debug\Graficador Calculo JECR_2024.csproj.GenerateResource.cache
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\obj\Debug\Graficador Calculo JECR_2024.csproj.CoreCompileInputs.cache
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\obj\Debug\Graficador Calculo JECR_2024.exe
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\obj\Debug\Graficador Calculo JECR_2024.pdb
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\FParsec.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\FParsecCS.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\FSharp.Core.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\MathNet.Numerics.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\MathNet.Symbolics.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\System.Buffers.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\System.Memory.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\System.ValueTuple.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\FParsec.pdb
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\FParsec.xml
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\FParsecCS.pdb
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\FParsecCS.xml
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\FSharp.Core.xml
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\MathNet.Numerics.xml
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\System.Buffers.xml
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\System.Memory.xml
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\System.ValueTuple.xml
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\efrec\source\repos\Graficador Calculo JECR_2024\Graficador Calculo JECR_2024\obj\Debug\Graficad.747F2687.Up2Date
